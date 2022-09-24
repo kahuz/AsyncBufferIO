@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/project/.vs
+/project/AsyncBufferIO/.vs
+/project/AsyncBufferIO/Debug
+/project/AsyncBufferIO/Release
